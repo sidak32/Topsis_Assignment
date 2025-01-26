@@ -3,7 +3,7 @@ It is a command line package that gives rank and score to a row based on value ,
 
 ## Installation
 ```python
-pip install -i https://test.pypi.org/simple/ topsis-sidaknoor-102203262
+pip install topsis-sidaknoor-102203262
 ```
 
 ## How to use it
